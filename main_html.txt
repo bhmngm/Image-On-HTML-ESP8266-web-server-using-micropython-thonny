@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+    <style>
+        h1{
+            color:white;
+        }
+        
+    </style>
+
+    <body style="text-align:center;background-color:rgb(150,0,200);">
+
+        <h1>This is Main HTML Page</h1>
+        
+        <br>
+        
+        <h1>This is an Image From ESP Server</h1>
+        <br>
+        <img src="main_pic.png" alt="" width="50%" >
+
+        <br>
+        <br>
+
+        <a  href="secondaryHTML"><h1 >Click to Go to Secondary HTML Page</h1></a>
+        
+    </body>
+
+</html>
